@@ -1,3 +1,3 @@
 # E Shopping Site
-* Fined my code in Archive
+* Find my code in Archive
 * Please read Requirments.txt file 
